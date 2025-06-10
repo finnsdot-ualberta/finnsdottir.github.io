@@ -11,13 +11,16 @@ redirect_from:
 
 Current Position.
 ======
-* Humanities & Social Sciences Specialist, 
-**
-Education
+* Humanities & Social Sciences Specialist, Digital Research Services-IST, 2025 - Ongoing
+  * University of Alberta 
+
+Education.
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Sociology, University of Toronto, 2024
+  * <i>Dissertation title</i>: “Radical women? Investigating gender disparities and women’s representation on the European radical right.”
+* M.A. in Sociology, University of Toronto, 2018
+* B.A. with Honours in Sociology, University of Victoria, 2016
+* Certificate of Language and Cultural Proficiency in French, University of Victoria, 2016
 
 Work experience
 ======
