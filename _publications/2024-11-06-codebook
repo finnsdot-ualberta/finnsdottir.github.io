@@ -1,0 +1,11 @@
+---
+title: "BIG Dyads Codebook."
+collection: publications
+category: conferences
+permalink: /publication/2024-11-06-codebook
+date: 2024-11-06
+paperurl: 'https://biglobalization.org/wp-content/uploads/2024/12/Borders-in-Globalization-Database-Codebook_2024.pdf'
+citation: 'Finnsdottir, Maria Sigridur, Kasra Ghorbaninejad, Benjamin Perrier, Shoukia Van Beek, Jules Soupault, Halina Sapeha, and Emmanuel Brunet-Jailly. 2024. BIG Dyads Codebook. Borders in Globalization.'
+---
+
+Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
