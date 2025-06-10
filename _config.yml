@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "museum_pic.jpg"
   name             : "Biography"
   pronouns         : "she/her"  
-  bio              : "Sociologist & Humanities and Social Sciences Specialist"
+  bio              : "Humanities and Social Sciences Specialist, U of A. PhD in Sociology, U of T."
   location         : "Edmonton, Alberta"
   employer         : "University of Alberta"
   email            : "finnsdot@ualberta.ca" 
@@ -41,7 +41,7 @@ publication_category:
   manuscripts:
     title: 'Journal Articles.' 
   conferences:
-    title: 'Conference Presentations and Non-Peer-Reviewed Publications.'
+    title: 'Other Publications.'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
