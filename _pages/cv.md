@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Current Position.
+======
+* Humanities & Social Sciences Specialist, 
+**
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
