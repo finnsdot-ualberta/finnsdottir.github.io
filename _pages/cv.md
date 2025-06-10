@@ -9,28 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
+Current Position.
+======
+* Humanities and Social Sciences Speciality, May 2025 - Ongoing
+ * Digital Research Services - IST, University of Alberta
+  
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Sociology, University of Toronto, 2024
+ * Dissertation title: “Radical women? Investigating gender disparities and women’s representation on the European radical right.”
+* M.A. in Sociology, University of Toronto, 2018
+* B.A. with Honours in Sociology, University of Victoria, 2016
+* Certificate of French Language and Cultural Competency, University of Victoria, 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Graduate Student Editorial Assistant, June 2023 - June 2025
+  * Canadian Review of Sociology
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Post-Doctoral Fellow, Borders in Globalization, Aug 2023 - May 2025
+  * Centre for Global Studies, University of Victoria
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant, Jan 2023 - Dec 2023
+  * Disability Audit Study (Drs. Michelle Maroto and David Pettinicchio)
+    
+* Senior Research Assistant, Borders in Globalization, Sep 2021 - Aug 2023
+  * Centre for Global Studies, University of Victoria
+ 
+* Database Manager & Research Assistant, Jean Monnet Network, Sep 2021 - Aug 2023
+  * Centre for Global Studies, University of Victoria
+
+* Visiting Graduate Student Fellow, Sep 2021 - Aug 2023
+  * Centre for Global Studies, University of Victoria
+
   
 Skills
 ======
