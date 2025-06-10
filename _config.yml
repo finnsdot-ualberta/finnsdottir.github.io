@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "María Sigríður Finnsdóttir"
 title_separator          : "-"
 name                     : &name "María Sigríður Finnsdóttir"
-description              : &description "Humanities and Social Sciences Specialist at U of A. PhD in Sociology. Working to connect humanities and social sciences researchers to digital tools and strengthen their research."
+description              : &description "Humanities and Social Sciences Specialist in Digital Research Services at U of A. PhD in Sociology. Working to connect humanities and social sciences researchers to digital tools and strengthen their research."
 url                      : https://finnsdottir.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,26 +24,25 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Biography"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "she/her"  
+  bio              : "Sociologist & Humanities and Social Sciences Specialist"
   location         : "Edmonton, Alberta"
   employer         : "University of Alberta"
   email            : "finnsdot@ualberta.ca" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.ca/citations?view_op=list_works&hl=en&user=-OyNxLQAAAAJ"
-  impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-1109-8678"
-  semantic         : # URL
-  researchgate     : # URL
-  scopus           : # URL
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: 'Tepperman, Lorne and Maria Finnsdottir. 2021. Canada’s Place: A Global Perspective. Oakville, ON: Rocks Mills Press.'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Finnsdottir, Maria Sigridur. (In review). “‘The PPC is anti-lockdown, anti-vaccine mandate, anti-vaccine passport:’ COVID-19 and the performance of crisis in Canadian populist far-right communication.” Canadian Review of Sociology.' 
+    title: 'Finnsdottir, Maria Sigridur. 2024. “Radical right cooperation: Gender and political networks in the European Parliament.” European Union Politics 25(4): 772-798.'
+    title: 'Finnsdottir, Maria Sigridur. 2023. “The Rassemblement National online: Investigating the politics of gender and racism of the radical right on social media.” Continuum 38(4): 502-516.' 
+    title: 'Finnsdottir, Maria Sigridur. 2022. “Radical women? Explaining the gender gap in radical right voting in the Nordic countries.” European Journal of Politics and Gender 5(3): 341-360. (Selected for the 2023 Editors’ Choice Collection.)' 
   conferences:
     title: 'Conference Papers'
 
